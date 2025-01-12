@@ -39,7 +39,6 @@
 }
 input{
     flex:1;
-    border:1px solid black;;
     outline: none;
     background:transparent;
     font-weight:bold;
