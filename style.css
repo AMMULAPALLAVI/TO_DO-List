@@ -25,7 +25,7 @@
     margin-bottom:20px;
 }
 .to-do-app h2 img{
-    width:40px;
+    width:50px;
     margin-left: 10px;
 }
 .row{
@@ -39,7 +39,7 @@
 }
 input{
     flex:1;
-    border:none;
+    border:1px solid black;;
     outline: none;
     background:transparent
 }
@@ -59,7 +59,7 @@ ul li{
     padding: 12px 8px 12px 50px;
     cursor: pointer;
     user-select: none;
-    font-size: 17px;
+    font-size: 20px;
     list-style: none;
 }
 ul li::before{
